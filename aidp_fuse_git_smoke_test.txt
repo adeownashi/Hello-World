@@ -1,3 +1,0 @@
-AIDP FUSE git smoke test
-
-This file was created by the separate GIT_DIR/GIT_WORK_TREE notebook.
